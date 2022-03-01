@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true account of the confession, behaviour, last daying speeches and penitent end of Greenway Feild; who was executed at Tyburn for the murther of Andrew Charleton, on the 25th of September, 1689.  With the paper he read under the gallows, signed by his own hand, desiring it might be printed as a warning to all people, &amp;c top event their coming to untimely ends.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09168</idno>
+            <idno type="STC">Wing F2302B</idno>
+            <idno type="STC">ESTC R213514</idno>
+            <idno type="EEBO-CITATION">64551280</idno>
+            <idno type="OCLC">ocm 64551280</idno>
+            <idno type="VID">184580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184580)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true account of the confession, behaviour, last daying speeches and penitent end of Greenway Feild; who was executed at Tyburn for the murther of Andrew Charleton, on the 25th of September, 1689.  With the paper he read under the gallows, signed by his own hand, desiring it might be printed as a warning to all people, &amp;c top event their coming to untimely ends.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. C. near Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside stained and torn.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Feild, Greenway, d. 1689 --  Trials, litigation, etc.</term>
+               <term>Charleton, Andrew, d. 1689.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:184580:1" rendition="simple:additions"/>
+            <head>A Full and True Account of the Confeſſion, Behaviour, Laſt Dying Speeches and Penitent End of <hi>Greenway Feild;</hi> Who was Executed at <hi>Tyburn</hi> for the Mur<g ref="char:EOLhyphen"/>ther of <hi>Andrew Charleton,</hi> on the <hi>25th</hi> of <hi>September,</hi> 1689. With the Paper he Read under the Gallows, Signed by his own hand, deſiring it might be Printed as a Warning to all People, <hi>&amp;c.</hi> to prevent their com<g ref="char:EOLhyphen"/>ing to Untimely Ends.</head>
+            <p>AT the <hi>Seſſions</hi> holden at the <hi>Old Bayly</hi> on the 28th and 29th of <hi>Auguſt</hi> laſt, Eight Perſons were Con<g ref="char:EOLhyphen"/>victed of ſundry Crimes, which the Law makes death, <hi>viz. Barbara Wolfe, Lawrence Welſh, Mary Croſs, Mary Amor, Hannah Holding, John Harman, Elizabeth Locker,</hi> and <hi>Greenway Feild:</hi> But paſſing over the reſt, who have hi<g ref="char:EOLhyphen"/>therto been reſpited from that Penalty, expreſſing at once their Sorrow for Sin, and Thankfulneſs for Mercy received, we shall in this Paper give an Account of the penitent Be<g ref="char:EOLhyphen"/>haviour and pious End of <hi>Mr. Feild,</hi> the onely perſon of the Number yet Executed.</p>
+            <p>After Sentence of Death had paſſed upon Mr. <hi>Feild</hi> for the Murther of Mr. <hi>Charleton,</hi> he being Remanded to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> was viſited by many able Divines, as Dr. <hi>Horneck, Mr. Wells,</hi> and others, who gave him ſpiritual Conſolation, and were aiding to Mr <hi>Ordinary</hi> in that Pious and Chriſtian like Duty, to whom he gave Attention, receiving the Sacrament, and expreſſing no ſmall Acknowledgment for the Mercies of God, and the Favor of the King, that he had a longer time than uſual to repent of his Sins, enquiring after ſaving Knowledge and praying frequently, behaving himſelf mo<g ref="char:EOLhyphen"/>deſt and ſeemly in all his Carriage and Actions, when on the 25th of <hi>September</hi> Inſtant, the Day of his Execution, about Ten of the Clock in the Morning (having a little be<g ref="char:EOLhyphen"/>fore been viſited by the Divines, and ſome of his Relations) he was put into a Cart, and conveyed to <hi>Tyburn,</hi> where Mr. <hi>Ordinary</hi> and Mr. <hi>Wells</hi> being in the Cart with him, after he had declared himſelf to be a great Sinner, and deſired Forgiveneſs of all he had Injured, deſiring the Spectators to be warned, <hi>&amp;c.</hi> being demanded what he had further to ſay, he produced the following Paper, publickly reading it with an audible Voice, then gave it to Mr. <hi>Ordinary,</hi> and de<g ref="char:EOLhyphen"/>ſired it might be printed and publiſhed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="scaffold_speech">
+                        <div type="body_of_speech">
+                           <opener>
+                              <salute>GENTLEMEN,</salute>
+                           </opener>
+                           <p>SInce it's my hard Fate to die this Igneminious Death, I ſuppoſe it's expected I ſhould give ſome account of my ſelf, as well for my paſt Life and Converſation, as for the Fact I die for. I ſhall briefly do it for your Satiſ<g ref="char:EOLhyphen"/>faction, and I hope it may ſerve for a Caution to others.</p>
+                           <p>I was born of good Parents in the County of <hi>Somer ſet<g ref="char:EOLhyphen"/>ſhire,</hi> where I had good Education in the Free School of <hi>Bruton.</hi> I ſince ſerved an Attorney ſome years in an Inn of <hi>Chancery,</hi> and was admitted afterwards, and ſworn an At<g ref="char:EOLhyphen"/>torney my ſelf; but being young, gave my ſelf too much Liberty. And, ſince my maturer years, I have greatly ne<g ref="char:EOLhyphen"/>glected my Duty towards God, I have profan'd his Sabbaths, and broken the Covenants I made with the great God for amendment of Life, and giving my ſelf too much pleaſure in offending my Creator. I accidentally, thô farally, be<g ref="char:EOLhyphen"/>came acquainted with one Mrs. <hi>Godard,</hi> alias <hi>Hannan,</hi> near Three years ſince, whoſe Converſation then ſuiting with my Fancy, and being often told by her, That ſhe was at Liberty to make choice of a Man, I made my Applications to her, and in proceſs of time, at a meeting in <hi>Salisbury</hi> we were Contracted each to the other under our Hands, which I intended Inviolably to obſerve: But coming to <hi>London</hi> a few Months after, being furniſhed by my Friends with what was needful in order to make a progreſs in my Employ<g ref="char:EOLhyphen"/>ment, I made my firſt Viſit to her, and continued with near two years to the beſt of my memory, in which time we had often difference: For I was troubled I had ſpent Mony and Time ſo idly, and thereby diſobliged my Friends, our Con<g ref="char:EOLhyphen"/>tract not performed, and another Man owning her: Yet; ne<g ref="char:EOLhyphen"/>vertheleſs, I was ſo far Infatuared, upon the Reaſons ſhe gave concerning this Matter, that I had no very ill Opinion of her, there often paſſing freſh and mutual aſſurance of our Friendſhip: Yet, nevertheleſs, ſome few months ſince ſhe coming acquainted with the Deceaſed, Mr <hi>Charleton,</hi> and (as I have great Reaſon to believe) they uſed too much Familiarity, notwithſtanding he had a Wife of his own. Whereupon I ſeveral times deſired him to deſiſt, but to no purpoſe; and reflecting on the Time and Money I had trifled away with the Friendſhip and Kindneſs that yet remained for her, with the ſeveral AFFRONTS I had received through the means of the DECEASEd, I lay under GREAT CONFLICTS of MIND, and he refuſing all things that were Generous, and having ſent for her as ſhe deſired to a Publick Houſe (the fatal day the Deed was done) the Deceaſed followed the Porter and told me ſhe ſhould not come, which anſwer I did not take well of him conſidering he was a Married man, and knew of the pretentions I had to her, although I muſt con<g ref="char:EOLhyphen"/>feſs I have been informed ſince my Impriſonment that ano<g ref="char:EOLhyphen"/>ther, if not others, have a better and prior Title to her than mine, being both Married to her, if ſo I heartily beg both their Pardons, but I unhappyly going to her Houſe ſoon after the Deceaſed had been with me at the aforeſaid Alehouſe, the Deceaſed was unluckily there, whereupon a difference aroſe, and he unfortunately received a wound which I believe occaſion'd his Death, but nor as he was Sitting in his Chair as Reported, now the ſaid Mrs. <hi>Go<g ref="char:EOLhyphen"/>dard</hi> alias <hi>Hannam</hi> muſt be blameworthy in keeping ano<g ref="char:EOLhyphen"/>ther Womans Husbands Company and the more conſide<g ref="char:EOLhyphen"/>ring her Circumſtances, and I do hereby declare had ſhe not done it, I ſhould in no wiſe have prejudiced the De<g ref="char:EOLhyphen"/>ceaſed who had fair warning, and in all probability we might have Lived both many Years to the comfort of all our Friends, and where<gap reason="illegible" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap> 
+                              <gap reason="illegible" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> 
+                              <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>emory will be a great diſcomfort and very iro<gap reason="illegible" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap> 
+                              <gap reason="illegible" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>. I muſt confeſs I had ſeveral Affronts but that can <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> no excuſe for Blood<g ref="char:EOLhyphen"/>ſhed; I freely forgive them both, and hope God has and will do ſo too. And I beg forgiveneſs firſt of my Infinite Creator then of all the World, and as ſome debts are due from me, I am by theſe means made uncapable of gi<g ref="char:EOLhyphen"/>ving
+<pb n="2" facs="tcp:184580:2"/> ſatisfaction, I deſire, nay I hope the Lord will give it Threefold where its due. I declare I dye in Charity with all Mankind, and I do humbly deſire to be forgiven of all, and let this my untimely end I beſeech thee O Lord be a Warning to all Youth of what company they keep, and if ſo, it will in part anſwer the end deſigned,</p>
+                           <closer>
+                              <signed>G. Feild.</signed>
+                           </closer>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>O <hi>Moſt Glorious God, thou that art Infinite and Incomprehenſible, thou that Revealeſt thy wrath from Heaven againſt all <g ref="char:V">Ʋ</g>ngodlineſs, and <g ref="char:V">Ʋ</g>nrighte<g ref="char:EOLhyphen"/>ouſneſs of Men, where then ſhall I appear being in ſo ſad, ſo miſerable a condition? Of whom may I ſeek for Succour, but of thee O Lord, who for my Sins art juſt<g ref="char:EOLhyphen"/>ly diſpleaſed, waſh me throughly from mine Iniquity, and cleanſe me from my Sin, againſt thee and my Neigh<g ref="char:EOLhyphen"/>bour have I ſinned, and done this evil in thy ſight, that thou mighteſt be juſtified when thou ſpeakeſt, and be clear when thou Judgeſt; Deliver me from blood-guilti<g ref="char:EOLhyphen"/>neſs, O God of my Salvation, and my Tongue ſhall ſing aloud of thy Righteouſneſs, O Lord moſt holy. O holy and moſt merciful Saviour Deliver me not into the pains of Eternal death, ſhut not up thy Merciful Ears to my Prayers, but ſpare me Lord, moſt holy, O God moſt mighty; O holy and merciful Saviour, thou moſt worthy Judge Eternal, ſuffer me not for any pains of Death to fall from thee, the Remembrance of this my Sin is grievous unto me, and the Burthen of it intolera<g ref="char:EOLhyphen"/>ble; have mercy upon me O Lord, have mercy upon me, who Repent with as lowly a ſpirit, as ever I ſinned with a high hand; O Lord help my Repentance, and when Juſtice ſhall lay my Blood upon my own head, let the Blood of Jeſus Chriſt be there to pardon O Lord, all my Sins; not only the Sins of Blood, but all others, both ſmall and great, for thy Sons ſake: O Lord San<g ref="char:EOLhyphen"/>ctify this Afflictions to me, that I may ſay with David,</hi> It was good for me I was Afflicted, <hi>and grant O Lord, that the Minutes I have had, I may find im<g ref="char:EOLhyphen"/>proved for the advancement of thy Glory and my own Eternal Benefit. Comfort O Lord my diſconſolate Fa<g ref="char:EOLhyphen"/>ther, and the reſt of my Relations; give them patience under this their Affliction. Comfort likewiſe O Lord, I beſeech thee, the Relations of the Deceaſed Mr.</hi> Charleton, <hi>and grant that none are, or may be impo<g ref="char:EOLhyphen"/>veriſh't by this diſaſter, either of his Friends or mine. I hope, O Lord, that he made his peace with thee before he went out of this World; And that I, O Lord, that am following hard after, may, in and through the Me<g ref="char:EOLhyphen"/>rits of my dear Saviour Jeſus Chriſt, be admitted into the Saints Eternal reſt, there to ſing</hi> Hallelujah, Hallelujah, <hi>before the Throne of thee, O God, for ever and ever</hi> Amen.</p>
+                           <closer>
+                              <signed>Greenway Feild.</signed>
+                           </closer>
+                           <closer>Veni, Oh veni Domine Jeſu, Stella matutina veni. Oh veni <gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>pio diſſolvi, &amp; eſſe tecum.</closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Mr. <hi>Feild</hi> having read this Paper, Mr. <hi>Ordinary</hi> repeated divers comfortable Expreſſions, to ſtrengthen his Faith in a true Reliance upon the Mercies of God, through the Merits of Jeſus Chriſt for Salvation, cauſing him to repeat the Lord's Prayer after him, and afterward he made his Con<g ref="char:EOLhyphen"/>feſſion of Faith, in repeating the <hi>Apoſtles Creed,</hi> declaring that he had been always educated and now died a Prote<g ref="char:EOLhyphen"/>ſtant. When Mr. <hi>Ordinary</hi> had prayed with him, and given him ſundry good Inſtructions, he deſired that Mr. <hi>Wells</hi> might pray with him, and accordingly he did with much Fervency. Then he prayed himſelf a conſiderable time, deſiring in his Prayer, above all things, that God would not lay to his Charge the Blood he had raſhly ſhed, ſeeming to grieve at nothing more, than that he had hurried a Perſon out of the World without any time to repent, acknowledg<g ref="char:EOLhyphen"/>ing on the contrary, that Mercy and Divine Providence that had not ſuffered himſelf to go off the Stage of the world by ſudden Death. He begged Pardon of all he had inju<g ref="char:EOLhyphen"/>red, but more particularly of the Relations of Mr. <hi>Charle<g ref="char:EOLhyphen"/>ton.</hi> After his Prayer was ended, Mr. <hi>Ordinary</hi> again ex<g ref="char:EOLhyphen"/>horted to try and examine his Thoughts, that he might not be deceived by the Depravity or Corruption of his heart, prayed with him, <hi>&amp;c.</hi> As afterward did the aforemen<g ref="char:EOLhyphen"/>tioned Gentlemen. Then he prayed again himſelf and de<g ref="char:EOLhyphen"/>ſired the Spectators to take warning by his Misfortune, ex<g ref="char:EOLhyphen"/>preſſing an extreme Sorrow for his miſpent Life, warning all People of that wicked Woman that had been the occa<g ref="char:EOLhyphen"/>ſion of his Untimely End, ſhaking Hands, and bidding Farewel to divers of his Friends and Acquaintance; who took Leave of him with Tears in their Eyes. Then part of a Pſalm was ſung, after which he was tyed up; and the Miniſters giving further Advice, together with the Bene<g ref="char:EOLhyphen"/>diction and Abſolution of the Church of <hi>England,</hi> to be pronounced to ſuch as unfeignedly repent. He again pray<g ref="char:EOLhyphen"/>ed, and exhorted the People, deſiring God to bleſs them, and keep them from ſuch Untimely Ends. After which deſiring their Prayers, and that God would ſend his Angels to re<g ref="char:EOLhyphen"/>ceive his Soul into any corner of Heaven, and not ſuffer it to dwell with Infernal Spirits, he recommended to his Maker to the laſt moment of his Life. And ſo fell this Unfortunate Gentleman, whoſe Untimely End we wiſh, according as himſelf heartily deſired almoſt with his laſt Breath, may be a warning to ſuch as lead diſſolute Courſes, <hi>&amp;c.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <p>Licens'd,</p>
+               <closer>
+                  <dateline>
+                     <date>Septemb. 25. 1689.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>☞ <hi>Theſe are to give Notice to all Perſons, for the Benefit of the Publick, That Mr.</hi> Elmy <hi>Profeſſor of Phyſick, and Operator, of known Integrity, and above 25 Years Practice, Liveth as the</hi> Blue Ball <hi>in</hi> Whale-Bone-Court, <hi>at the Lower End of</hi> Bar<g ref="char:EOLhyphen"/>tholomew-lane <hi>by the</hi> Royal Exchange, <hi>who moſt ſafely and expeditiouſly Cures</hi> Deafneſs <hi>and</hi> Noiſe in the Ears <hi>in any of what Age ſoever, (if Cu<g ref="char:EOLhyphen"/>rable) and at Firſt Sight, by Inſpection, Reſolves the Patient if ſo or not, as moſt Eminent Perſons of Quality in this City can Teſtifie. He hath like<g ref="char:EOLhyphen"/>wiſe a moſt excellent Gargariſm or Mouth-water, will make black or yellow Teeth as white as Ivory, in a few times uſing; and it will certainly cure the Scurvy, and all other Diſeaſes incident to the Mouth, Teeth and Gums, which in many perſons cau<g ref="char:EOLhyphen"/>ſeth a ſtinking Breath, which (by the bleſſing of God, and the uſe of this Water) I dare affirm you will be freed from thoſe Maladies beforementioned, with Directions. His Pills only prepared for the</hi> French <hi>Diſeaſe, and the</hi> Running of the Reins, <hi>may be had in Boxes of ſeveral prices, with other</hi> Venercal Arcana's, <hi>as occaſion requires, with Directions.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C.</hi> near <hi>Fleet-bridge.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
